@@ -1,0 +1,19 @@
+{
+  "name": "react-nodejs-winery",
+  "version": "1.0.0",
+  "description": "This app will help the winery to have the percentage breakdown of grapes sources properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morris-hazrati/react-nodejs-winery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morris-hazrati/react-nodejs-winery/issues"
+  },
+  "homepage": "https://github.com/morris-hazrati/react-nodejs-winery#readme"
+}
