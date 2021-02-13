@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/morris-hazrati/react-nodejs-winery.git"
   },
-  "author": "",
+  "author": "Morris Hazrati",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/morris-hazrati/react-nodejs-winery/issues"
   },
-  "homepage": "https://github.com/morris-hazrati/react-nodejs-winery#readme"
+  "homepage": "https://github.com/morris-hazrati/react-nodejs-winery#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
