@@ -19,4 +19,4 @@ app.get("/api/breakdown/:breakdownType/:lotCode", (req, res) => {
   res.send(JSON.stringify(database.getLot(lotCode, breakdownType)));
 });
 
-app.listen(3000, () => console.log("Listening to port 3000 ..."));
+app.listen(8080, () => console.log("Listening to port 3000 ..."));
